@@ -1,5 +1,5 @@
 # maro12314 — Roblox Developer
-Roblox LuaU developer focused on gameplay systems and architecture.
+Roblox Luau developer focused on gameplay systems and architecture.
 Ensuring that code stays clean, modular, and scalable.
 
 ## Selected Work
@@ -10,7 +10,7 @@ Reusable entity architecture built for a combat-focused Roblox project.
 - Centralized entity lifecycle
 - Modular architecture
 - Registry-based definitions
-- Typed LuaU
+- Typed Luau
 
 [View Project →](https://github.com/JustACasualNoob/roblox-entity-system)
 
